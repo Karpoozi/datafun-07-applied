@@ -1,4 +1,4 @@
-# datafun-07-applied
+# datafun-07-ml
 
 # Start a New Project in GitHub & Clone it
 In your browser, create a GitHub project repository with a default README.md. Clone your new repository down to your machine where you want your root project folder to be by running the following:
